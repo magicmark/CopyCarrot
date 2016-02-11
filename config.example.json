@@ -1,0 +1,6 @@
+{
+	"helloworld": {
+		"watch_dir": "/Users/markl/projects/helloworld/",
+		"remote_dir": "/var/www/helloworld"
+	}
+}
